@@ -1,0 +1,8 @@
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\bin\Debug\LinqObjectsList.exe.config
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\bin\Debug\LinqObjectsList.exe
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\bin\Debug\LinqObjectsList.pdb
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\obj\Debug\LinqObjectsList.csproj.AssemblyReference.cache
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\obj\Debug\LinqObjectsList.csproj.SuggestedBindingRedirects.cache
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\obj\Debug\LinqObjectsList.csproj.CoreCompileInputs.cache
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\obj\Debug\LinqObjectsList.exe
+C:\Users\anderson.alarcon\source\repos\Developer\afa001\CURSO_LINQ\Linq\LinqObjectsList\obj\Debug\LinqObjectsList.pdb
